@@ -1,0 +1,53 @@
+---
+title: "Markdown_Stuff_Rstudio"
+author: "S Santos"
+date: "Monday, September 15, 2014"
+output: html_document
+---
+
+<!--( Commented out  
+
+1. I order to produce md files and html files here do
+
+knit2html("ExampleMarkdown.Rmd")
+if (interactive()) browseURL("ExampleMarkdownMarkdown.html")
+
+The knit needs the knitr library  : library(knitr)
+
+2. html in markdown accepts html syntax and code
+
+3. Add or do not add source R code to display  review
+
+https://support.rstudio.com/hc/en-us/articles/200486468-Authoring-R-Presentations
+
+
+4. Making presentations
+
+http://rmarkdown.rstudio.com/ioslides_presentation_format.html
+
+)--> 
+
+
+
+<font size="5">
+
+# General Reader
+
+1. Get the Feynman's lectures for free
+
+Get them [here](http://www.feynmanlectures.caltech.edu/)
+
+
+- Read chapters 21 and 25 from Volume 1
+
+This information is general for many systems and it will be important for the 
+lectures dealing with dynamic modes
+
+- Please keep cheking here since I will keep you posted
+
+Last post on the 17 of September 2014
+
+</font>
+
+----
+
