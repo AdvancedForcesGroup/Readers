@@ -47,6 +47,16 @@ lectures dealing with dynamic modes
 
 Last post on the 17 of September 2014
 
+
+2. I have added the second lesson on DC forces
+
+- Please access [here](https://github.com/AdvancedForcesGroup/Lesson_2_SSantos_DCForces)
+
+In this lesson you will find stuff you need to read, mandatory and 
+suggestions. 
+
+
+- I have also added compulsory projects [here](https://github.com/AdvancedForcesGroup/Projects1)
 </font>
 
 ----
