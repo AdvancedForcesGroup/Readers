@@ -33,7 +33,7 @@ http://rmarkdown.rstudio.com/ioslides_presentation_format.html
 
 # General Reader
 
-1. Get the Feynman's lectures for free
+## Week 1 Get the Feynman's lectures for free
 
 Get them [here](http://www.feynmanlectures.caltech.edu/)
 
@@ -47,8 +47,9 @@ lectures dealing with dynamic modes
 
 Last post on the 17 of September 2014
 
+## Week 2
 
-2. I have added the second lesson on DC forces
+- I have added the second lesson on DC forces
 
 - Please access [here](https://github.com/AdvancedForcesGroup/Lesson_2_SSantos_DCForces)
 
@@ -57,6 +58,34 @@ suggestions.
 
 
 - I have also added compulsory projects [here](https://github.com/AdvancedForcesGroup/Projects1)
+</font>
+
+Last post on the 25 of September 2014
+----
+
+## Week 3
+
+- COMPUSORY Project for first week of October:
+
+**IMPORTANT NOTE**: PLease read the project below. You will have to produce
+the document and give a 10 minuts talk and answer questions during the first week of October. 
+
+Compulsory project 1 [here](https://github.com/AdvancedForcesGroup/Projects1)
+</font>
+
+Last post on the 25 of September 2014
+
+- I have now added the readers to Projects 2 and 3 here:
+
+**NOTE**: Projects have changed. Projects 2 and 3 will count from 40-50% of the final grade and they will conssist of continuous work for the next 2 months. Everybody needsto choose one of the two (please choose any and startalready working!) 
+
+* GROUP 1:
+
+Compulsory project 2 [here](https://github.com/AdvancedForcesGroup/Projects2)
+
+* Group 2: 
+Compulsory project 2 [here](https://github.com/AdvancedForcesGroup/Projects3)
+
 </font>
 
 ----
