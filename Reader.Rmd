@@ -91,3 +91,10 @@ Last post on the 25 of September 2014
 
 ----
 
+
+## Week 4
+
+
+**Added papers to read on apparent height** [here](https://github.com/AdvancedForcesGroup/ApparentHeight/blob/master/Lesson4_ForcesANDApparentHeight.Rmd) 
+
+**Also added** matlab codes with the work done (2-October-2014) on elastic modulus, deformation, force, etc. in DC [here](https://github.com/AdvancedForcesGroup/ApparentHeight)
