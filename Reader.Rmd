@@ -98,3 +98,18 @@ Last post on the 25 of September 2014
 **Added papers to read on apparent height** [here](https://github.com/AdvancedForcesGroup/ApparentHeight/blob/master/Lesson4_ForcesANDApparentHeight.Rmd) 
 
 **Also added** matlab codes with the work done (2-October-2014) on elastic modulus, deformation, force, etc. in DC [here](https://github.com/AdvancedForcesGroup/ApparentHeight)
+
+
+## Week 5
+
+
+* **Added*** Project 4 
+
+(worth 10%) [here](https://github.com/AdvancedForcesGroup/Projects4/blob/master/Homework_Project4.Rmd)
+
+* **Also*** added  GRADING SYSTEM
+
+In here you find deadlines and grading
+
+[here](https://github.com/AdvancedForcesGroup/GRADING_SYSTEM/blob/master/UPDATE_GRADINGS_SYSTEM.Rmd)
+
