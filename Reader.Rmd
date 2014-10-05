@@ -1,0 +1,100 @@
+---
+title: "Markdown_Stuff_Rstudio"
+author: "S Santos"
+date: "Monday, September 15, 2014"
+output: html_document
+---
+
+<!--( Commented out  
+
+1. I order to produce md files and html files here do
+
+knit2html("ExampleMarkdown.Rmd")
+if (interactive()) browseURL("ExampleMarkdownMarkdown.html")
+
+The knit needs the knitr library  : library(knitr)
+
+2. html in markdown accepts html syntax and code
+
+3. Add or do not add source R code to display  review
+
+https://support.rstudio.com/hc/en-us/articles/200486468-Authoring-R-Presentations
+
+
+4. Making presentations
+
+http://rmarkdown.rstudio.com/ioslides_presentation_format.html
+
+)--> 
+
+
+
+<font size="5">
+
+# General Reader
+
+## Week 1 Get the Feynman's lectures for free
+
+Get them [here](http://www.feynmanlectures.caltech.edu/)
+
+
+- Read chapters 21 and 25 from Volume 1
+
+This information is general for many systems and it will be important for the 
+lectures dealing with dynamic modes
+
+- Please keep cheking here since I will keep you posted
+
+Last post on the 17 of September 2014
+
+## Week 2
+
+- I have added the second lesson on DC forces
+
+- Please access [here](https://github.com/AdvancedForcesGroup/Lesson_2_SSantos_DCForces)
+
+In this lesson you will find stuff you need to read, mandatory and 
+suggestions. 
+
+
+- I have also added compulsory projects [here](https://github.com/AdvancedForcesGroup/Projects1)
+</font>
+
+Last post on the 25 of September 2014
+----
+
+## Week 3
+
+- COMPULSORY Project for first week of October:
+
+**IMPORTANT NOTE**: PLease read the project below. You will have to produce
+the document and give a 10 minuts talk and answer questions during the first week of October. 
+
+**Compulsory project 1** [here](https://github.com/AdvancedForcesGroup/Projects1)
+</font>
+
+Last post on the 25 of September 2014
+
+- I have now added the readers to Projects 2 and 3 here:
+
+**NOTE**: Projects have changed. Projects 2 and 3 will count from 40-50% of the final grade and they will conssist of continuous work for the next 2 months. Everybody needsto choose one of the two (please choose any and startalready working!) 
+
+* GROUP 1:
+
+**Compulsory project 2** [here](https://github.com/AdvancedForcesGroup/Projects2)
+
+* GROUP 2: 
+
+**Compulsory project 3** [here](https://github.com/AdvancedForcesGroup/Projects3)
+
+</font>
+
+----
+
+
+## Week 4
+
+
+**Added papers to read on apparent height** [here](https://github.com/AdvancedForcesGroup/ApparentHeight/blob/master/Lesson4_ForcesANDApparentHeight.Rmd) 
+
+**Also added** matlab codes with the work done (2-October-2014) on elastic modulus, deformation, force, etc. in DC [here](https://github.com/AdvancedForcesGroup/ApparentHeight)
